@@ -1,2 +1,2 @@
 # neve-child-imgdigital
- Theme para Neve Them
+ Child Theme para Neve Theme y que voy a usar en IMGDigital
