@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80e7ef40-d8ae-4e64-9da0-c9f190a62120" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DrupalConfiguration">
+    <drupalPath />
+  </component>
+  <component name="JoomlaConfiguration">
+    <joomlaConfigPath />
+    <joomlaPath />
+  </component>
+  <component name="ProjectId" id="1asKYWkSTTOdkHjLsU5H7SehOV5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80e7ef40-d8ae-4e64-9da0-c9f190a62120" name="Default Changelist" comment="" />
+      <created>1587518908710</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587518908710</updated>
+      <workItem from="1587518910230" duration="1892000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="230" y="77" key="#Notifications" timestamp="1587519061336">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="230" y="77" key="#Notifications/0.23.1280.777@0.23.1280.777" timestamp="1587519061336" />
+    <state x="139" y="50" key="SettingsEditor" timestamp="1587519094153">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="139" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1587519094153" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>$PROJECT_DIR$/../../..</wordpressPath>
+  </component>
+</project>
